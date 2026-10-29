@@ -25,37 +25,29 @@ Kodu yapay zekâ ile birlikte yazıyorum. Claude Code ana geliştirme ortamım: 
 
 | Proje | Ne yapıyor | Teknoloji | Durum |
 |---|---|---|---|
-| **[NodeDine](https://github.com/bycandev/nodedine-tanitim)** | Restoranlara QR menü, restoran sayfası ve yönetim paneli sunan çok kiracılı SaaS | Next.js 16, React 19, PostgreSQL, Prisma, Docker | 🟢 Canlı, gerçek restoranlarda kullanılıyor |
-| **[SigortaTakip](https://github.com/bycandev/sigortatakip-tanitim)** | Bir sigorta acentesinin Excel takibinin yerine geçen, yerel ağda çalışan poliçe programı | Go, SQLite, React | 🟢 Sürüm 1.5 |
-| **[LearnStride](https://github.com/bycandev/learnstride-tanitim)** | FSRS algoritmasıyla İngilizce kelime öğreten PWA (Türkçe arayüz) | Next.js 16, Supabase, ts-fsrs, Playwright | 🟡 Geliştiriliyor |
-| **[KVKK Redact](https://github.com/bycandev/kvkk-redact-tanitim)** | Taranmış PDF'lerdeki kişisel verileri OCR + LLM ile bulup geri dönüşsüz karalayan araç | Python, Streamlit, Tesseract, OpenRouter | 🟢 Çalışır sürüm |
+| **[NodeDine](https://github.com/bycandev/projelerim/tree/main/nodedine)** | Restoranlara QR menü, restoran sayfası ve yönetim paneli sunan çok kiracılı SaaS | Next.js 16, React 19, PostgreSQL, Prisma, Docker | 🟢 Canlı, gerçek restoranlarda kullanılıyor |
+| **[SigortaTakip](https://github.com/bycandev/projelerim/tree/main/sigortatakip)** | Bir sigorta acentesinin Excel takibinin yerine geçen, yerel ağda çalışan poliçe programı | Go, SQLite, React | 🟢 Sürüm 1.5 |
+| **[LearnStride](https://github.com/bycandev/projelerim/tree/main/learnstride)** | FSRS algoritmasıyla İngilizce kelime öğreten PWA (Türkçe arayüz) | Next.js 16, Supabase, ts-fsrs, Playwright | 🟡 Geliştiriliyor |
+| **[KVKK Redact](https://github.com/bycandev/projelerim/tree/main/kvkk-redact)** | Taranmış PDF'lerdeki kişisel verileri OCR + LLM ile bulup geri dönüşsüz karalayan araç | Python, Streamlit, Tesseract, OpenRouter | 🟢 Çalışır sürüm |
 
 ---
 
 ## Diğer çalışmalarım
 
 **Yapay zekâ ve otomasyon**
-- **[Müşteri Bulucu Bot](https://github.com/bycandev/musteribulucu-bot-tanitim):** Google Haritalar'dan işletme bulup WhatsApp'tan yapay zekâ ile konuşan, ilgilenenleri Telegram'dan bana devreden satış botu. React paneli var. *(Node.js, PostgreSQL, Socket.io, Gemini/Claude)*
-- **[NodeDine WhatsApp Botu](https://github.com/bycandev/restoran-saas-bot-tanitim):** Müşteri Bulucu Bot'un n8n ile kurduğum ilk sürümü. *(n8n, Evolution API, Gemini, Google Sheets)*
-- **[Asiste](https://github.com/bycandev/asiste-tanitim):** WhatsApp üzerinden çalışan kişisel planlama asistanı. *(TypeScript, Fastify, PostgreSQL · erken aşama)*
-- **[FinansAI](https://github.com/bycandev/finansai-tanitim):** Fiş ve dekont fotoğrafından harcamayı kaydeden finans uygulaması. *(Flutter, Supabase · planlama)*
-- **[WrAIth](https://github.com/bycandev/wraith-tanitim):** WiFi sinyalleriyle kamerasız hareket tespiti üzerine araştırma projesi. *(Python, PyTorch, Raspberry Pi · planlama)*
+- **[Müşteri Bulucu Bot](https://github.com/bycandev/projelerim/tree/main/musteribulucu-bot):** Google Haritalar'dan işletme bulup WhatsApp'tan yapay zekâ ile konuşan, ilgilenenleri Telegram'dan bana devreden satış botu. React paneli var. *(Node.js, PostgreSQL, Socket.io, Gemini/Claude)*
+- **[NodeDine WhatsApp Botu](https://github.com/bycandev/projelerim/tree/main/restoran-saas-bot):** Müşteri Bulucu Bot'un n8n ile kurduğum ilk sürümü. *(n8n, Evolution API, Gemini, Google Sheets)*
+- **[Asiste](https://github.com/bycandev/projelerim/tree/main/asiste):** WhatsApp üzerinden çalışan kişisel planlama asistanı. *(TypeScript, Fastify, PostgreSQL · erken aşama)*
+- **[FinansAI](https://github.com/bycandev/projelerim/tree/main/finansai):** Fiş ve dekont fotoğrafından harcamayı kaydeden finans uygulaması. *(Flutter, Supabase · planlama)*
 
 **Araçlar ve altyapı**
-- **[Yedekleme Servisi](https://github.com/bycandev/backup-service-tanitim):** Veritabanı ve klasörleri AES-256 ile şifreleyip Google Drive'a yükleyen, e-posta raporu atan web paneli. *(Node.js, SQLite, rclone)*
-- **[Köprü](https://github.com/bycandev/kopru-tanitim):** Mac ile Windows arasında internet olmadan da çalışan anlık dosya aktarımı. *(Go)*
-- **[Kod-Mesaj](https://github.com/bycandev/kod-mesaj-tanitim):** İki cihazı 6 haneli kodla eşleştirip 250 MB'a kadar dosya gönderen, kurulumsuz web uygulaması. *(Python)*
-- **[Bütçe Takip](https://github.com/bycandev/butce-takip-tanitim):** Kurulum gerektirmeyen yerel nakit akışı takibi. *(Python, SQLite)*
-
-**Mobil**
-- **[ParaTakip](https://github.com/bycandev/paratakip-tanitim):** Staj için Flutter öğrenirken yaptığım gelir-gider uygulaması. *(Flutter)*
-
-**Okul ve topluluk**
-- **["Yapay Zekâyla Yazılım Geliştirmek" sunumu](https://github.com/bycandev/yz-sunum-tanitim):** 57 ekranlık, canlı demolu, internetsiz çalışan Türkçe sunum.
+- **[Yedekleme Servisi](https://github.com/bycandev/projelerim/tree/main/backup-service):** Veritabanı ve klasörleri AES-256 ile şifreleyip Google Drive'a yükleyen, e-posta raporu atan web paneli. *(Node.js, SQLite, rclone)*
+- **[Köprü](https://github.com/bycandev/projelerim/tree/main/kopru):** Mac ile Windows arasında internet olmadan da çalışan anlık dosya aktarımı. *(Go)*
+- **[Kod-Mesaj](https://github.com/bycandev/projelerim/tree/main/kod-mesaj):** İki cihazı 6 haneli kodla eşleştirip 250 MB'a kadar dosya gönderen, kurulumsuz web uygulaması. *(Python)*
+- **[Bütçe Takip](https://github.com/bycandev/projelerim/tree/main/butce-takip):** Kurulum gerektirmeyen yerel nakit akışı takibi. *(Python, SQLite)*
 
 **İlk projelerim**
 - **[Adıyaman Pide QR Menü](https://github.com/bycandev/adiyaman-pide-menu):** Ailemizin restoranı için yaptığım ilk dijital menü. *(Vanilla JS)*
-- **[Eski portfolyo sitem](https://github.com/bycandev/personal-tanitim):** Stitch'te tasarlayıp Next.js'e taşıdığım ilk portfolyo. *(Next.js)*
 
 ---
 
