@@ -6,7 +6,6 @@
 
 Ondokuz Mayıs Üniversitesi Vezirköprü MYO · Bilgisayar Programcılığı
 
-[![Site](https://img.shields.io/badge/bycan.dev-020617?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bycan.dev)
 [![Instagram](https://img.shields.io/badge/@bycandev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bycandev)
 
 </div>
@@ -81,7 +80,7 @@ Kodu yapay zekâ ile birlikte yazıyorum. Claude Code ana geliştirme ortamım: 
 
 <div align="center">
 
-Projelerimin çoğu müşteri işi olduğu için kaynak kodu gizli. Tanıtım repolarında ne yaptığımı ve nasıl kurduğumu anlatıyorum.<br>
-Demo ya da iş birliği için: **[bycan.dev](https://bycan.dev)** · **[@bycandev](https://instagram.com/bycandev)**
+Projelerimin çoğu müşteri işi olduğu için kaynak kodu gizli. [Projelerim](https://github.com/bycandev/projelerim) reposunda ne yaptığımı ve nasıl kurduğumu anlatıyorum.<br>
+Demo ya da iş birliği için: **[@bycandev](https://instagram.com/bycandev)**
 
 </div>
