@@ -25,7 +25,7 @@ Kodu yapay zekâ ile birlikte yazıyorum. Claude Code ana geliştirme ortamım: 
 | Proje | Ne yapıyor | Teknoloji | Durum |
 |---|---|---|---|
 | **[NodeDine](https://github.com/bycandev/projelerim/tree/main/nodedine)** | Restoranlara QR menü, restoran sayfası ve yönetim paneli sunan çok kiracılı SaaS | Next.js 16, React 19, PostgreSQL, Prisma, Docker | 🟢 Canlı, gerçek restoranlarda kullanılıyor · [nodedine.com](https://nodedine.com) |
-| **[SigortaTakip](https://github.com/bycandev/projelerim/tree/main/sigortatakip)** | Bir sigorta acentesinin Excel takibinin yerine geçen, yerel ağda çalışan poliçe programı | Go, SQLite, React | 🟢 Sürüm 1.5 · [Demo](https://sigortatakip.bycan.dev/) |
+| **[SigortaTakip](https://github.com/bycandev/projelerim/tree/main/sigortatakip)** | Bir sigorta acentesinin Excel takibinin yerine geçen, yerel ağda çalışan poliçe programı | Go, SQLite, React | 🟢 Sürüm 1.5 · [sigortatakip.bycan.dev](https://sigortatakip.bycan.dev/) |
 | **[LearnStride](https://github.com/bycandev/projelerim/tree/main/learnstride)** | FSRS algoritmasıyla İngilizce kelime öğreten PWA (Türkçe arayüz) | Next.js 16, Supabase, ts-fsrs, Playwright | 🟡 Geliştiriliyor |
 | **[KVKK Redact](https://github.com/bycandev/projelerim/tree/main/kvkk-redact)** | Taranmış PDF'lerdeki kişisel verileri OCR + LLM ile bulup geri dönüşsüz karalayan araç | Python, Streamlit, Tesseract, OpenRouter | 🟢 Çalışır sürüm |
 
