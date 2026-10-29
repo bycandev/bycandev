@@ -45,9 +45,6 @@ Kodu yapay zekâ ile birlikte yazıyorum. Claude Code ana geliştirme ortamım: 
 - **[Kod-Mesaj](https://github.com/bycandev/projelerim/tree/main/kod-mesaj):** İki cihazı 6 haneli kodla eşleştirip 250 MB'a kadar dosya gönderen, kurulumsuz web uygulaması. *(Python)*
 - **[Bütçe Takip](https://github.com/bycandev/projelerim/tree/main/butce-takip):** Kurulum gerektirmeyen yerel nakit akışı takibi. *(Python, SQLite)*
 
-**İlk projelerim**
-- **[Adıyaman Pide QR Menü](https://github.com/bycandev/adiyaman-pide-menu):** Ailemizin restoranı için yaptığım ilk dijital menü. *(Vanilla JS)*
-
 ---
 
 ## Topluluk ve içerik
